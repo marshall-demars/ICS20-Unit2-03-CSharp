@@ -6,11 +6,11 @@
 using System;
 
 class Program {
-  public static void Main (string[] args) {
-     // This function accepts user input
+public static void Main (string[] args) {
+    // This function accepts user input
         string streetName;
         int streetNumber;
-      
+
         Console.WriteLine ("This program gets a user's address");
         Console.WriteLine("");
 
@@ -23,5 +23,5 @@ class Program {
         Console.WriteLine("Your street address is: " + streetNumber + " " + streetName + ".");
 
         Console.WriteLine("\nDone.");
-  }
+    }
 }
