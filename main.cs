@@ -5,9 +5,11 @@
 
 using System;
 
-class Program {
-public static void Main (string[] args) {
-    // This function accepts user input
+class Program
+{
+    public static void Main (string[] args)
+    {
+        // This function accepts user input
         string streetName;
         int streetNumber;
 
