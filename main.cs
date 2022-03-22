@@ -7,13 +7,13 @@ using System;
 
 class Program
 {
-    public static void Main (string[] args)
+    public static void Main(string[] args)
     {
         // This function accepts user input
         string streetName;
         int streetNumber;
 
-        Console.WriteLine ("This program gets a user's address");
+        Console.WriteLine("This program gets a user's address");
         Console.WriteLine("");
 
         Console.Write("Enter your street name: ");
